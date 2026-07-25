@@ -1,11 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "appid": "__UNI__A7CDD14",
-  "version": "",
-  "versionCode": 0,
-  "supportedNativeVersionCodes": [],
-  "force": false,
-  "title": "",
-  "content": "",
-  "wgtUrl": ""
+  "version": "1.0.1",
+  "versionCode": 101,
+  "supportedNativeVersionCodes": [100],
+  "force": true,
+  "title": "发现测试更新",
+  "content": "底部“我的”已更新为 Mine。",
+  "wgtUrl": "https://raw.githubusercontent.com/Horck/mroron/main/microm-1.0.1.wgt"
 }
