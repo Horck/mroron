@@ -3,7 +3,7 @@
   "appid": "__UNI__A7CDD14",
   "version": "1.0.1",
   "versionCode": 101,
-  "supportedNativeVersionCodes": [100],
+  "supportedNativeVersionCodes": [100, 102],
   "force": true,
   "title": "发现测试更新",
   "content": "底部“我的”已更新为 Mine。",
