@@ -1,0 +1,5 @@
+*.wgt
+*.wgtu
+*.apk
+*.ipa
+.DS_Store
