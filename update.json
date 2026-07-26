@@ -1,10 +1,7 @@
 {
-  "enabled": true,
-  "appid": "__UNI__A7CDD14",
-  "version": "1.0.1",
-  "versionCode": 101,
-  "force": false,
-  "title": "发现测试更新",
-  "content": "底部“我的”已更新为 Mine。",
-  "wgtUrl": "https://mroron.pages.dev/microm-1.0.1-c4673438f54b.wgt"
+  "v": 1,
+  "alg": "A256CBC-HS256",
+  "iv": "yTiB/CWvuJUA9lJDHFlrxg==",
+  "data": "WWWDMSzf5s7X0AU1P/CDYAVFuVPfpMmOqnoRi+dWQ7Vyr59N+Of8Adk4D6dyqbG8+vTfkvyNRo0nIJQ5Djk+nkQU2TU+SAMxZpmTi1tffkIR2vF0bd3yKAaH+nZp04XBLcTaMOPupst+9cBy/gtYt2QFYG+NmsE78yy6C5Fxr+cuKy1bcWQ0CzayrKd9MySLnIR5MSpMrYPNglGjrONp/lrjwWE/gJM4rXIWoSybn3x8RUTTtIBXfCgaMmUFPKyJ20Pmu7+Cft+i+1Y/58UWek4x4Rrukx9TzfRaTjD8GRzEwWojXmscbqXJpZsmUwzk",
+  "mac": "izs/w53yJxqob6u8pShe8K0xvg20RK7LqUVzeeOxjZs="
 }

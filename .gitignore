@@ -2,3 +2,5 @@
 *.apk
 *.ipa
 .DS_Store
+*.plain.json
+*.key.json
